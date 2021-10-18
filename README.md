@@ -2,6 +2,7 @@
 Python random maze generator/solver
 
 This is a highschool project I did about 3 years ago with a friends of mine: https://github.com/MysteryDungeon
+
 It consists of a random maze generator and a solving "AI".
 
 Controls:
